@@ -32,11 +32,6 @@ voice-chat/
 ├── build/
 ├── CMakeLists.txt
 └── README.md
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 🛠️ Requirements
