@@ -51,12 +51,13 @@ voice-chat/
 
 git clone https://github.com/your-username/voice-chat.git
 cd voice-chat
-2. Make sure you have the dependencies:
+
+###2. Make sure you have the dependencies:
 asio in external/asio
 
 portaudio in external/portaudio
 
-3. Build the project:
+###3. Build the project:
 cmake -B build -G "Visual Studio 17 2022"
 cmake --build build --config Release
 ▶️ Run Instructions
