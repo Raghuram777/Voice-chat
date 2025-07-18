@@ -241,7 +241,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
 
 [⭐ Star this repo](https://github.com/your-username/voice-chat) • [🐛 Report Bug](https://github.com/your-username/voice-chat/issues) • [💡 Request Feature](https://github.com/your-username/voice-chat/issues)
 
